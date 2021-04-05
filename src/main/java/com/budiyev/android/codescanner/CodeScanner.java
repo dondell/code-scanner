@@ -37,6 +37,7 @@ import android.hardware.Camera.CameraInfo;
 import android.hardware.Camera.Parameters;
 import android.os.Handler;
 import android.os.Process;
+import android.util.Log;
 import android.view.SurfaceHolder;
 
 import androidx.annotation.MainThread;
